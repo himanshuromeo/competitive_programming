@@ -1,5 +1,5 @@
 //ac
-
+//Link - https://orac.amt.edu.au/cgi-bin/train/problem.pl?set=aio17int&problemid=980
 #include <bits/stdc++.h>
 
 using namespace std;
