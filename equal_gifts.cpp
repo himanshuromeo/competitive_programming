@@ -1,5 +1,5 @@
 //ac
-
+//Link - http://opc.iarcs.org.in/index.php/problems/EQGIFTS
 #include<bits/stdc++.h>
 
 using namespace std;
