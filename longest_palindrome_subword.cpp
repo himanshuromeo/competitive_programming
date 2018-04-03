@@ -1,4 +1,6 @@
 //ac
+//Link - http://opc.iarcs.org.in/index.php/problems/LONGPALIN
+//Explanation - https://www.commonlounge.com/discussion/a13bc3bb4f04446abd032b805905a60a/all/802eca1bf24a4250af4105d58c9bc4ec 
 
 #include<bits/stdc++.h>
 
