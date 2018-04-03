@@ -1,4 +1,5 @@
 //ac
+//Link - https://orac.amt.edu.au/cgi-bin/train/problem.pl?set=aio16sen&problemid=906
 
 #include <bits/stdc++.h>
 
